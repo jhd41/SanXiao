@@ -1,4 +1,6 @@
 window.Global = {
   cellsPosArr: null,
-  cellsNodeArr: null
+  cellsNodeArr: null,
+  blocksPosArr: null,
+  blocksNodeArr: null,
 };
