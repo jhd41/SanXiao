@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<root> 
+<book> 
+<name>西游记</name> 
+<author>吴承恩</author> 
+</book> 
+<book> 
+<name>红楼梦</name> 
+<author>曹雪芹</author> 
+</book> 
+<book> 
+<name>三国演义</name> 
+<author> 
+<name>施耐庵</name> 
+<sex>男</sex> 
+</author> 
+</book> 
+<book> 
+<name>水浒传</name> 
+<author>罗贯中</author> 
+</book> 
+</root> 

@@ -1,0 +1,6 @@
+[
+    { "StageNum": 30 },
+    { "StageName": "关卡一", "data": 7 },
+    { "StageName": "关卡二", "data": 5 },
+    { "StageName": "关卡三", "data":27 }
+]
